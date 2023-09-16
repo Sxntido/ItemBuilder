@@ -1,4 +1,4 @@
-package org.github.sxmuray;
+package org.github.sxntido;
 
 import com.mojang.authlib.GameProfile;
 import com.mojang.authlib.properties.Property;
